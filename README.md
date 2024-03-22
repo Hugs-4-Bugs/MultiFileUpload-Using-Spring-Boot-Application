@@ -21,6 +21,7 @@ mvn clean install
 #### 4. Run the Application:
 mvn spring-boot:run
 
+```bash
 
 
 ## Usage
