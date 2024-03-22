@@ -6,16 +6,16 @@ This Spring Boot project provides an API for testing the upload of multiple file
 
 ## Setup
 
-### 1. Clone the Repository:
+#### 1. Clone the Repository:
 git clone https://github.com/Hugs-4-Bugs/MultiFileUpload-Using-Spring-Boot-Application.git
 
-### 2. Navigate to the Project Directory:
+#### 2. Navigate to the Project Directory:
 cd MultiFileUpload-Using-Spring-Boot-Application
 
-### 3. Build the Project:
+#### 3. Build the Project:
 mvn clean install
 
-### 4. Run the Application:
+#### 4. Run the Application:
 mvn spring-boot:run
 
 
